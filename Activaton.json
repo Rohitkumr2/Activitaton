@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "title": "🔐 Secure Login",
-  "description": "Please login to continue using this app.",
+  "title": "ACTIVATION KEY",
+  "description": "Please login to continue.",
   "button": "LOGIN",
-  "toast": "✅ Successfully Logged In!",
+  "toast": "Login Success",
   "renewUrl": "https://t.me/ultimatemodderz",
   "devices": [
     {
